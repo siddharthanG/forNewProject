@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TestNG.Utils.RetryListenerClass"/>
+    <listener class-name="TestNG.Utils.TestAllureReportListener"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Chrome testing(failed)">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="BrowserPages.TestClasses.SampleTestOne">
+        <methods>
+          <include name="TestOne"/>
+          <include name="close"/>
+          <include name="firstTest"/>
+          <include name="TestSecond"/>
+        </methods>
+      </class> <!-- BrowserPages.TestClasses.SampleTestOne -->
+    </classes>
+  </test> <!-- Chrome testing(failed) -->
+</suite> <!-- Failed suite [Suite] -->

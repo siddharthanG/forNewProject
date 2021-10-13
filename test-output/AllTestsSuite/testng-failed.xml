@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [AllTestsSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Firefox testing(failed)">
+    <parameter name="browserType" value="firefox"/>
+    <classes>
+      <class name="BrowserPages.TestClasses.SampleTestOne">
+        <methods>
+          <include name="TestOne"/>
+          <include name="close"/>
+          <include name="firstTest"/>
+          <include name="TestSecond"/>
+        </methods>
+      </class> <!-- BrowserPages.TestClasses.SampleTestOne -->
+      <class name="BrowserPages.TestClasses.SampleTest">
+        <methods>
+          <include name="Test"/>
+          <include name="Test1"/>
+          <include name="firstTest"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- BrowserPages.TestClasses.SampleTest -->
+    </classes>
+  </test> <!-- Firefox testing(failed) -->
+  <test thread-count="5" parallel="tests" name="Chrome testing(failed)">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="BrowserPages.TestClasses.SampleTestOne">
+        <methods>
+          <include name="TestOne"/>
+          <include name="close"/>
+          <include name="firstTest"/>
+          <include name="TestSecond"/>
+        </methods>
+      </class> <!-- BrowserPages.TestClasses.SampleTestOne -->
+      <class name="BrowserPages.TestClasses.SampleTest">
+        <methods>
+          <include name="Test1"/>
+          <include name="firstTest"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- BrowserPages.TestClasses.SampleTest -->
+    </classes>
+  </test> <!-- Chrome testing(failed) -->
+</suite> <!-- Failed suite [AllTestsSuite] -->

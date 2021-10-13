@@ -1,0 +1,1770 @@
+2021-08-22 15:19:29 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (7dcae10f214c23d6f85c1c4da6462c35)
+2021-08-22 15:19:29 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:19:34 ERROR SampleTestOne:30 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='user_email_login1']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ssekar\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7dcae10f214c23d6f85c1c4da6462c35
+*** Element info: {Using=xpath, value=//*[@id='user_email_login1']}
+2021-08-22 15:19:42 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (2d8421c08f301a32d15ec7771c277fca)
+2021-08-22 15:19:42 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:19:46 ERROR SampleTestOne:30 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='user_email_login1']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ssekar\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59710}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d8421c08f301a32d15ec7771c277fca
+*** Element info: {Using=xpath, value=//*[@id='user_email_login1']}
+2021-08-22 15:19:53 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (d94b3f17425bc754aa30cd37d3f203d1)
+2021-08-22 15:19:53 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:19:57 ERROR SampleTestOne:30 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='user_email_login1']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ssekar\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49292}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d94b3f17425bc754aa30cd37d3f203d1
+*** Element info: {Using=xpath, value=//*[@id='user_email_login1']}
+2021-08-22 15:21:00 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (53bf13c82357213f0f6c7f67a2d2cea8)
+2021-08-22 15:21:00 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:21:04 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:26:24 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (7fdaa14e1812d1d9f214a88100d98c23)
+2021-08-22 15:26:24 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:26:29 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:28:13 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (0c0d1d51d33426a9a42e7eac171fd51c)
+2021-08-22 15:28:13 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:28:19 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:30:29 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (95e07c93009052996059cd67694bee2b)
+2021-08-22 15:30:29 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:30:42 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (d4c38291-a3e2-414a-84cd-44d66044657f)
+2021-08-22 15:30:42 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:30:43 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:30:47 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (296ed0c989707270154ad74c6b63bc4d)
+2021-08-22 15:30:47 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:30:48 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:30:50 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:32:34 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (6e330e9b8344855288352bd252d3a2e5)
+2021-08-22 15:32:35 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:32:38 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (2ccc66b2a3777a711772f2676da993fa)
+2021-08-22 15:32:38 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:32:40 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:32:45 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (0af98ffb-1014-4455-9564-7247611598d3)
+2021-08-22 15:32:45 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:32:46 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:32:48 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:39:19 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (759f85b3275d116aa243546dd38fa19b)
+2021-08-22 15:39:20 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:39:23 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (deae3dab9f185bada43223d658639173)
+2021-08-22 15:39:23 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:39:25 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:39:28 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (8a7a318b-f416-44e3-b0da-b6c0be107c13)
+2021-08-22 15:39:29 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:39:29 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:39:34 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:39:40 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (4ae996e0449b52ea67c14f29b6e6d441)
+2021-08-22 15:39:40 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:39:45 INFO  SampleTestOne:23 - SampleTestOne TestMethod3: Email Entered
+2021-08-22 15:41:16 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (3fb1de5d-5f8c-4e1f-86a8-4ff4948a2754)
+2021-08-22 15:41:16 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:41:19 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:41:22 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (63228eac80d8a29dbb9464d5d1686411)
+2021-08-22 15:41:22 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:41:22 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (faa9f9d4a33e56d270f22ad9cf2a7242)
+2021-08-22 15:41:22 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:41:24 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:41:29 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:41:35 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (ae840b86de713c76bfea0bf0803424ec)
+2021-08-22 15:41:35 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:41:40 INFO  SampleTestOne:23 - SampleTestOne TestMethod3: Email Entered
+2021-08-22 15:45:58 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (9325ebd210dcc44409d426daa1b2c998)
+2021-08-22 15:45:58 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:45:59 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (18ede8910c5a76e359c2767b5f7f5b7e)
+2021-08-22 15:45:59 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:46:01 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:46:04 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (2f5d4aa4-ab55-48d8-bd7a-29b2c9b59b5e)
+2021-08-22 15:46:04 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:46:05 ERROR SampleTestOne:30 - Unable to locate element: //*[@id='user_email_login']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 91.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210816143654, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 19720, moz:profile: C:\Users\ssekar\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2f5d4aa4-ab55-48d8-bd7a-29b2c9b59b5e
+*** Element info: {Using=xpath, value=//*[@id='user_email_login']}
+2021-08-22 15:46:16 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (90bf80eb-278f-46cc-9192-a8c9831a57db)
+2021-08-22 15:46:16 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:46:17 ERROR SampleTestOne:30 - Unable to locate element: //*[@id='user_email_login']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 91.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210816143654, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 14316, moz:profile: C:\Users\ssekar\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 90bf80eb-278f-46cc-9192-a8c9831a57db
+*** Element info: {Using=xpath, value=//*[@id='user_email_login']}
+2021-08-22 15:46:26 ERROR SampleTestOne:30 - timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=92.0.4515.131)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ssekar\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9325ebd210dcc44409d426daa1b2c998
+2021-08-22 15:46:27 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (df0c5e17-5038-437e-8b65-3569e046dd2e)
+2021-08-22 15:46:27 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:46:29 ERROR SampleTestOne:30 - Unable to locate element: //*[@id='user_email_login']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 91.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210816143654, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 24920, moz:profile: C:\Users\ssekar\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: df0c5e17-5038-437e-8b65-3569e046dd2e
+*** Element info: {Using=xpath, value=//*[@id='user_email_login']}
+2021-08-22 15:46:38 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (60581cc8-b91d-4449-b1a6-555348a642a7)
+2021-08-22 15:46:38 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:46:40 ERROR SampleTestOne:30 - Unable to locate element: //*[@id='user_email_login']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 91.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210816143654, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 12576, moz:profile: C:\Users\ssekar\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 60581cc8-b91d-4449-b1a6-555348a642a7
+*** Element info: {Using=xpath, value=//*[@id='user_email_login']}
+2021-08-22 15:46:45 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (4a2c1ae28a923c285a9459806c70d71a)
+2021-08-22 15:46:45 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:46:50 INFO  SampleTestOne:23 - SampleTestOne TestMethod3: Email Entered
+2021-08-22 15:55:44 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (0760a152b3785fb63d845f74b6932d47)
+2021-08-22 15:55:44 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:55:47 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (df192435ddf8368fde507b040c33f58a)
+2021-08-22 15:55:47 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-22 15:55:49 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:55:53 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (3c22a3ef-e908-4001-9870-3eff2c31c067)
+2021-08-22 15:55:53 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-22 15:55:54 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-22 15:55:56 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-22 15:56:03 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (df5f93535798b8a72926aef8f9ace7cf)
+2021-08-22 15:56:03 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-22 15:56:08 INFO  SampleTestOne:23 - SampleTestOne TestMethod3: Email Entered
+2021-08-23 15:03:32 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (11250122ba18bf7c68707ab7699c4559)
+2021-08-23 15:03:32 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-23 15:03:33 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:03:34 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (976cd199-c104-4aba-a42e-6ab2c68a389a)
+2021-08-23 15:03:34 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-23 15:03:35 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:03:40 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (17b5976260ad3744a78edb4e5bd4963a)
+2021-08-23 15:03:40 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:03:44 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:03:50 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (9a15aaf231dbffa227f00a60e1f2843b)
+2021-08-23 15:03:50 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:03:56 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:04:03 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (1eb114c02855138f3a00c0f95a0c7d91)
+2021-08-23 15:04:03 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:04:11 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:04:24 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (510d7edc5f236aee76ec650afac26651)
+2021-08-23 15:04:24 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:04:32 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:04:40 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (eb843fbefa393fa20200417bdf4367bb)
+2021-08-23 15:04:40 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:04:47 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:04:53 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (e79f3a2008b8b2e853bba9117397a0ea)
+2021-08-23 15:04:53 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:04:58 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:07:03 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (e25853cbaefb3b6fabbe4a99efc159f5)
+2021-08-23 15:07:03 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-23 15:07:05 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:07:07 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (5c0998bc-71ae-4c75-8a9b-d20fb7e28b45)
+2021-08-23 15:07:07 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-23 15:07:07 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:10:06 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (98d14ece-38e5-4adb-87f3-d78379c99250)
+2021-08-23 15:10:06 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-23 15:10:07 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:10:08 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (97a3d020c05ab1b2f8041d8d09089ccd)
+2021-08-23 15:10:08 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-23 15:10:09 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:21:10 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (3c8f7feb-cf71-4938-b563-432d2800d645)
+2021-08-23 15:21:10 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-23 15:21:13 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (df8554701d96b08aceed9a4b955f03c7)
+2021-08-23 15:21:13 INFO  Actions:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:21:13 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:21:13 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (18590b90c1c5ceeac646f21449c6aeff)
+2021-08-23 15:21:14 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-23 15:21:16 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:21:22 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:21:29 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (32cdfee40e0f1971d7581a6f69fedfa9)
+2021-08-23 15:21:29 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:21:34 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:21:41 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (41483f4d48586e43bc1c3146b1fea7a7)
+2021-08-23 15:21:41 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:21:45 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:21:53 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (573466c35d40111d1dfde29e2cbbfed7)
+2021-08-23 15:21:53 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:21:58 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:22:05 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (5e9048c28102d6c8a54084ee75b8d9d3)
+2021-08-23 15:22:05 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:22:09 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:22:16 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (a4e54558f30eed085f3deba3f093c930)
+2021-08-23 15:22:16 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:22:21 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:22:28 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (0e1827ba2742d71cba1776f0387b6ceb)
+2021-08-23 15:22:28 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:22:32 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:22:38 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (94b4e010b6498c47aca60987eebf2c52)
+2021-08-23 15:22:38 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:22:42 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:22:50 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (62f99c9b77d52877ac274d58c8393923)
+2021-08-23 15:22:50 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:22:54 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:23:02 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (efe5788d3873f8e74f870fa72392cfbc)
+2021-08-23 15:23:02 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:23:06 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:26:31 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (b1007e86a2373382b797f50f17883fd2)
+2021-08-23 15:26:31 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:26:39 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (6586d6fd-afe3-4462-928c-3645429dbc71)
+2021-08-23 15:26:39 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-23 15:26:40 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:26:42 INFO  Actions:37 - SampleTestOne BeforeTest: EdgeDriver: msedge on WINDOWS (c64e7e4c2dcf26555183f57bc2e3a317)
+2021-08-23 15:26:42 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-23 15:26:43 INFO  SampleTest:23 - App & Browser Testing Made EasyText is available as header
+2021-08-23 15:26:47 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:26:54 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (86497ca96550a112f7212c343159301e)
+2021-08-23 15:26:55 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:26:59 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:27:06 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (6697800db26dd3ee6798f3374a4cebbb)
+2021-08-23 15:27:06 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:27:11 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:27:19 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (7f701528136bcbba9572e75408c1b2b4)
+2021-08-23 15:27:19 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:27:23 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:27:30 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (2f9683a518452125df1bf482d6cbac51)
+2021-08-23 15:27:30 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:27:34 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:27:41 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (115345c677c3ae2278e0f9b198259878)
+2021-08-23 15:27:41 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:27:45 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:27:51 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (b78779f0e3afd1eb9e07eb18f29fa719)
+2021-08-23 15:27:51 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:27:55 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:28:02 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (3b50680caec30225ec4eb945896d800c)
+2021-08-23 15:28:02 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:28:06 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:28:13 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (f1aafef70dc6b4ecf7b4914a8f95252d)
+2021-08-23 15:28:13 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:28:18 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-23 15:28:25 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (b6b0bc6febb942f693f542effe47e55b)
+2021-08-23 15:28:25 INFO  Actions:37 - SampleTestOne Thread ID: 14
+2021-08-23 15:28:29 INFO  SampleTestOne:23 - SampleTestOne TestMethod1: Email Entered
+2021-08-28 05:52:23 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (aaadd6433f861b7ed10ca9140ae6bb06)
+2021-08-28 05:52:49 INFO  Actions:37 - SampleTestOne Thread ID: 15
+2021-08-28 05:53:01 INFO  SampleTest:23 - Automation Practice WebsiteText is available as header
+2021-08-28 05:53:55 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (182f30f40ea0b93a78ae0ee17a34b56e)
+2021-08-28 05:53:55 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-28 05:53:55 INFO  SampleTest:23 - Automation Practice WebsiteText is available as header
+2021-08-28 05:58:03 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 05:58:06 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 05:58:06 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 05:58:07 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 05:58:14 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (fb064a92335c168d10f2ae6f35bee830)
+2021-08-28 05:58:14 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-28 05:58:14 INFO  SampleTest:23 - Automation Practice WebsiteText is available as header
+2021-08-28 05:59:06 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 05:59:10 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 05:59:10 INFO  SampleAPITest:23 - Response body is: null
+2021-08-28 05:59:10 ERROR FileUtil:30 - java.io.FileNotFoundException: src\main\resources\Testdata\rest\response_outputfiles\check_email.json (The system cannot find the path specified)
+2021-08-28 05:59:10 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 05:59:11 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 05:59:11 INFO  SampleAPITest:23 - Response body is: null
+2021-08-28 05:59:11 ERROR FileUtil:30 - java.io.FileNotFoundException: src\main\resources\Testdata\rest\response_outputfiles\check_email.json (The system cannot find the path specified)
+2021-08-28 05:59:18 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (28fb623d0bc87dd29c22c27ff6e11e93)
+2021-08-28 05:59:18 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-28 05:59:18 INFO  SampleTest:23 - Automation Practice WebsiteText is available as header
+2021-08-28 06:15:39 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 06:15:43 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 06:15:59 INFO  SampleAPITest:23 - Response body is: null
+2021-08-28 06:15:59 ERROR FileUtil:30 - java.io.FileNotFoundException: src\main\resources\Testdata\rest\response_outputfiles\check_email.json (The system cannot find the path specified)
+2021-08-28 06:16:33 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 06:16:36 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 06:19:34 INFO  SampleAPITest:23 - Response body is: null
+2021-08-28 06:19:35 ERROR FileUtil:30 - java.io.FileNotFoundException: src\main\resources\Testdata\rest\response_outputfiles\check_email.json (The system cannot find the path specified)
+2021-08-28 06:20:09 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 06:20:12 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comuser/check_email
+2021-08-28 06:20:31 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 13:00:44 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-28 13:03:23 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comwaldeveosqa07.dev.rocketsoftware.comuser/check_email
+2021-08-29 04:55:59 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-29 04:56:04 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comreqres.in/api/users?page=2
+2021-08-29 04:56:42 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-29 04:57:22 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comreqres.in/api/users?page=2
+2021-08-29 04:58:48 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-29 05:02:25 INFO  SampleAPITest:23 - GET Request Invokedas: http://automationpractice.comreqres.in/api/users?page=2
+2021-08-29 05:03:38 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-29 05:44:29 ERROR SampleAPITest:30 - Expected values are mismatching with Response
+2021-08-29 05:46:49 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-29 05:46:52 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-29 05:46:52 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-29 05:46:52 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-29 05:46:52 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-29 05:46:53 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-29 05:46:53 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-29 05:46:53 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-29 05:46:53 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-29 05:46:53 INFO  SampleAPITest:23 - Status code of Post Request invoked :200
+2021-08-30 11:03:17 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:03:20 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:03:20 INFO  SampleAPITest:23 - Status code of Post Request invoked :200
+2021-08-30 11:03:39 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (31c4413f0f23bde231769c3ed35a3008)
+2021-08-30 11:03:39 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-30 11:04:00 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (502080f1920d71da3e2bd298d5b669ce)
+2021-08-30 11:04:00 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-30 11:13:34 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (d5db90ad0e051bd9b56134c67ac7cc62)
+2021-08-30 11:13:34 INFO  Actions:37 - SampleTestOne Thread ID: 1
+2021-08-30 11:17:23 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (7d3b0db87c0bc3e11384955ba5d20768)
+2021-08-30 11:17:23 INFO  Actions:37 - SampleTestOne Thread ID: 1
+2021-08-30 11:17:24 INFO  SampleTest:23 - REQ | RESText is available as header
+2021-08-30 11:17:40 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (4dc43c9817ddba800111360139458af4)
+2021-08-30 11:17:41 INFO  Actions:37 - SampleTestOne Thread ID: 1
+2021-08-30 11:17:41 ERROR SampleTest:30 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(.,'Sign in')]"}
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'AMS-VM-VDI013', ip: '10.15.40.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ssekar\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4dc43c9817ddba800111360139458af4
+*** Element info: {Using=xpath, value=//a[contains(.,'Sign in')]}
+2021-08-30 11:22:37 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:22:40 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:22:40 INFO  SampleAPITest:23 - Status code of Post Request invoked :200
+2021-08-30 11:22:54 INFO  Actions:37 - SampleTestOne BeforeTest: ChromeDriver: chrome on WINDOWS (2756dea24958ab132d18d7fa19c618fe)
+2021-08-30 11:22:55 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-30 11:22:55 INFO  SampleTest:23 - REQ?|?RESText is available as header
+2021-08-30 11:26:09 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:26:13 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:26:13 INFO  SampleAPITest:23 - Status code of Post Request invoked :200
+2021-08-30 11:26:46 INFO  Actions:37 - SampleTestOne BeforeTest: FirefoxDriver: firefox on WINDOWS (810edb85-0e6c-419d-9402-5767c806fddc)
+2021-08-30 11:26:46 INFO  Actions:37 - SampleTestOne Thread ID: 13
+2021-08-30 11:26:52 INFO  SampleTest:23 - REQ?|?RESText is available as header
+2021-08-30 11:29:56 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-30 11:29:59 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:30:00 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:30:00 INFO  SampleAPITest:23 - Status code of Post Request invoked :200
+2021-08-30 11:32:36 INFO  SampleAPITest:23 - Before Method : Rest Initialized
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - GET Request Invokedas: https://reqres.in/api/users?page=2
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:34:08 INFO  FileUtil:23 - Created file with data src/main/resources/Testdata/rest/response_outputfiles/check_email.json
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - Verifying element exist in API response
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - Response body is: {
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - response{
+  "page" : 2,
+  "per_page" : 6,
+  "total" : 12,
+  "total_pages" : 2,
+  "data" : [ {
+    "id" : 7,
+    "email" : "michael.lawson@reqres.in",
+    "first_name" : "Michael",
+    "last_name" : "Lawson",
+    "avatar" : "https://reqres.in/img/faces/7-image.jpg"
+  }, {
+    "id" : 8,
+    "email" : "lindsay.ferguson@reqres.in",
+    "first_name" : "Lindsay",
+    "last_name" : "Ferguson",
+    "avatar" : "https://reqres.in/img/faces/8-image.jpg"
+  }, {
+    "id" : 9,
+    "email" : "tobias.funke@reqres.in",
+    "first_name" : "Tobias",
+    "last_name" : "Funke",
+    "avatar" : "https://reqres.in/img/faces/9-image.jpg"
+  }, {
+    "id" : 10,
+    "email" : "byron.fields@reqres.in",
+    "first_name" : "Byron",
+    "last_name" : "Fields",
+    "avatar" : "https://reqres.in/img/faces/10-image.jpg"
+  }, {
+    "id" : 11,
+    "email" : "george.edwards@reqres.in",
+    "first_name" : "George",
+    "last_name" : "Edwards",
+    "avatar" : "https://reqres.in/img/faces/11-image.jpg"
+  }, {
+    "id" : 12,
+    "email" : "rachel.howell@reqres.in",
+    "first_name" : "Rachel",
+    "last_name" : "Howell",
+    "avatar" : "https://reqres.in/img/faces/12-image.jpg"
+  } ],
+  "support" : {
+    "url" : "https://reqres.in/#support-heading",
+    "text" : "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
+2021-08-30 11:34:08 INFO  SampleAPITest:23 - Status code of Post Request invoked :200

@@ -1,0 +1,241 @@
+!SESSION 2021-08-14 15:42:36.493 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-08-14 15:44:11.884
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-14 15:44:11.884
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55f6f965,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@40ddf339,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-14 15:44:27.896
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Siddharthan.G'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-08-14 15:49:28.571 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-08-14 15:49:35.781
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-14 15:49:35.781
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4cd8db31,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@201a8ea7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-14 15:49:46.009
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Siddharthan.G'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:02.657
+!MESSAGE The POM for commons-cli:commons-cli:jar:1.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:02.835
+!MESSAGE The POM for org.codehaus.plexus:plexus-utils:jar:3.0.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:03.527
+!MESSAGE The POM for org.apache.commons:commons-lang3:jar:3.8.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:03.951
+!MESSAGE The POM for org.postgresql:postgresql:jar:9.4.1212 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:03.968
+!MESSAGE The POM for org.slf4j:slf4j-api:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:03.985
+!MESSAGE The POM for org.slf4j:slf4j-log4j12:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:04.115
+!MESSAGE The POM for commons-codec:commons-codec:jar:1.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:04.223
+!MESSAGE The POM for io.rest-assured:xml-path:jar:3.2.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:04.276
+!MESSAGE The POM for io.rest-assured:json-path:jar:3.2.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:05.271
+!MESSAGE The POM for commons-lang:commons-lang:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.737
+!MESSAGE The POM for org.apache.commons:commons-exec:jar:1.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.769
+!MESSAGE The POM for org.slf4j:slf4j-nop:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.775
+!MESSAGE The POM for com.melloware:jintellitype:jar:1.3.7 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.872
+!MESSAGE The POM for commons-io:commons-io:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.925
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.8.15 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:06.939
+!MESSAGE The POM for com.google.guava:guava:jar:25.0-jre is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:07.034
+!MESSAGE The POM for com.saucelabs:sauce_testng:jar:2.1.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:07.040
+!MESSAGE The POM for com.fasterxml.jackson.core:jackson-databind:jar:2.9.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:07.316
+!MESSAGE The POM for commons-collections:commons-collections:jar:3.2.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:07.368
+!MESSAGE The POM for commons-net:commons-net:jar:3.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.568
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.578
+!MESSAGE The POM for org.apache.httpcomponents:httpclient:jar:4.5.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.589
+!MESSAGE The POM for org.apache.httpcomponents:httpcore:jar:4.4.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.601
+!MESSAGE The POM for com.squareup.okhttp3:okhttp:jar:3.10.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.612
+!MESSAGE The POM for com.squareup.okio:okio:jar:1.14.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:09.731
+!MESSAGE The POM for com.fasterxml.jackson.core:jackson-core:jar:2.9.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:10.033
+!MESSAGE The POM for commons-validator:commons-validator:jar:1.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:10.123
+!MESSAGE The POM for commons-beanutils:commons-beanutils:jar:1.9.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:23.657
+!MESSAGE The POM for org.apache.commons:commons-lang3:jar:3.8.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:23.813
+!MESSAGE The POM for org.postgresql:postgresql:jar:9.4.1212 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:23.824
+!MESSAGE The POM for org.slf4j:slf4j-api:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:23.833
+!MESSAGE The POM for org.slf4j:slf4j-log4j12:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:24.189
+!MESSAGE The POM for commons-codec:commons-codec:jar:1.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:24.252
+!MESSAGE The POM for io.rest-assured:xml-path:jar:3.2.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:24.258
+!MESSAGE The POM for io.rest-assured:json-path:jar:3.2.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:24.519
+!MESSAGE The POM for commons-lang:commons-lang:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:24.763
+!MESSAGE The POM for commons-cli:commons-cli:jar:1.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.180
+!MESSAGE The POM for org.apache.commons:commons-exec:jar:1.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.202
+!MESSAGE The POM for org.slf4j:slf4j-nop:jar:1.7.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.208
+!MESSAGE The POM for com.melloware:jintellitype:jar:1.3.7 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.265
+!MESSAGE The POM for commons-io:commons-io:jar:2.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.282
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.8.15 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.290
+!MESSAGE The POM for com.google.guava:guava:jar:25.0-jre is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.345
+!MESSAGE The POM for com.saucelabs:sauce_testng:jar:2.1.25 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.350
+!MESSAGE The POM for com.fasterxml.jackson.core:jackson-databind:jar:2.9.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.511
+!MESSAGE The POM for commons-collections:commons-collections:jar:3.2.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:25.543
+!MESSAGE The POM for commons-net:commons-net:jar:3.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.507
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.513
+!MESSAGE The POM for org.apache.httpcomponents:httpclient:jar:4.5.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.519
+!MESSAGE The POM for org.apache.httpcomponents:httpcore:jar:4.4.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.524
+!MESSAGE The POM for com.squareup.okhttp3:okhttp:jar:3.10.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.530
+!MESSAGE The POM for com.squareup.okio:okio:jar:1.14.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.582
+!MESSAGE The POM for com.fasterxml.jackson.core:jackson-core:jar:2.9.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.631
+!MESSAGE The POM for commons-validator:commons-validator:jar:1.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:26.672
+!MESSAGE The POM for commons-beanutils:commons-beanutils:jar:1.9.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:27.833
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-14 15:54:27.855
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
